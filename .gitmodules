@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "grip"]
+	path = grip
+	url = https://github.com/pgajer/grip
+[submodule "linf"]
+	path = linf
+	url = https://github.com/pgajer/linf
