@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dgraphs"]
+	path = dgraphs
+	url = https://github.com/pgajer/dgraphs
 [submodule "grip"]
 	path = grip
 	url = https://github.com/pgajer/grip
