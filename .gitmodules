@@ -5,6 +5,9 @@
 [submodule "dgraphs"]
 	path = dgraphs
 	url = https://github.com/pgajer/dgraphs
+[submodule "geosmooth"]
+	path = geosmooth
+	url = https://github.com/pgajer/geosmooth
 [submodule "grip"]
 	path = grip
 	url = https://github.com/pgajer/grip
