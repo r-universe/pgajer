@@ -11,6 +11,9 @@
 [submodule "grip"]
 	path = grip
 	url = https://github.com/pgajer/grip
+[submodule "ivue"]
+	path = ivue
+	url = https://github.com/pgajer/ivue
 [submodule "linf"]
 	path = linf
 	url = https://github.com/pgajer/linf
